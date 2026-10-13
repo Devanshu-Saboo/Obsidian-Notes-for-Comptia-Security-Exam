@@ -1,0 +1,1 @@
+These are physical obstructions such as barricades that limit the access of places to only people and not carts by leaving small gaps in between the barricades. This can also be a checkpoint guarded by a security guard and a movable barricade. 
