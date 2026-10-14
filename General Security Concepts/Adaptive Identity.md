@@ -5,8 +5,8 @@ In Adaptive Identity, we collect and consider even more information such as:==ðŸ
 Depending on the data collected from above mentioned resources, if the system still flags the user as a risk it may attempt to authenticate the user with even more tests such as an OTP (One Time Password) using an authenticator app such as Microsoft or Google.
 
 # Previous Topic
-[[Zero Trust Framework]]
 [[Control Plane]]
-
-# Next topic
+# Previous Section
+[[Zero Trust Framework]]
+# Next Topic
 [[Threat Scope Reduction]]

@@ -4,8 +4,12 @@ There are 2 major planes in this framework namely:
 1. [[Data Plane]]
 2. [[Control Plane]]
 
-# Previous Topic
+# Previous Section
 [[Gap Analysis]]
 
-# Next topic
+# Next Topic
+[[Data Plane]]
+[[Control Plane]]
+
+# Next Section
 [[Physical Security]]

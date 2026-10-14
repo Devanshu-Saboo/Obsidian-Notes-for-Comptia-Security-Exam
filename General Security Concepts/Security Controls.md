@@ -5,5 +5,5 @@
 
 
 
-# Next topic
+# Next Section
 [[Security Control Types]]

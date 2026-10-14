@@ -5,10 +5,8 @@ Authentication, Authorization and Accounting
 3. [[Accounting]]
 
 
-
-
-# Previous Topic
+# Previous Section
 [[CIA Triad]]
 
-# Next topic
+# Next Section
 [[Gap Analysis]]

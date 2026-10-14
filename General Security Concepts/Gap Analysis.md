@@ -14,8 +14,8 @@ Steps involved in Gap Analysis:
 ![[ISO 27001 Checklist.png.png]]
 
 
-# Previous Topic
+# Previous Section
 [[AAA Framework]]
 
-# Next topic
+# Next Section
 [[Zero Trust Framework]]

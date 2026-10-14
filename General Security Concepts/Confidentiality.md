@@ -1,9 +1,6 @@
 Ensure that communication between certain people is only between certain people, ==🔵prevent unauthorized information disclosure.== 
 
-
-
-# Previous Topic
+# Previous Section
 [[CIA Triad]]
-
 # Next Topic
 [[Availability]]

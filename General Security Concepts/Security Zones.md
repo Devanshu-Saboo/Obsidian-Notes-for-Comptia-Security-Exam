@@ -8,8 +8,8 @@ Trusted security zones can also be further split into more smaller security zone
 
 
 # Previous Topic
-[[Zero Trust Framework]]
 [[Policy Driven Access Control]]
-
+# Previous Section
+[[Zero Trust Framework]]
 # Next topic
 [[Policy Enforcement Point (PEP)]]

@@ -3,7 +3,10 @@ Verifying the origin point of data to ensure that communication was originated f
 
 # Previous Topic
 [[Integrity]]
-[[Non-Repudiation]]
-
+[[Proof of Integrity]]
+# Previous Section
+[[CIA Triad]]
 # Next Topic
 [[Digital Signature]]
+# Next Section
+ [[AAA Framework]]

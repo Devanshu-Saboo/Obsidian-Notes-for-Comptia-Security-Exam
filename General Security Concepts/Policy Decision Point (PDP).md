@@ -5,9 +5,10 @@ PDP is further split into 2 sperate sections:
 2. Policy Administrator: This is responsible for the relaying the decision granted by the Policy Engine back to the PEP. This will also forward data such as any credentials that were created for the device through the PEP to the device.
 
 ![[Zero Trust Diagram.png]]
-# Previous Topic
-[[Zero Trust Framework]]
-[[Policy Enforcement Point (PEP)]]
 
-# Next topic
+# Previous Topic
+[[Policy Enforcement Point (PEP)]]
+# Previous Section
+[[Zero Trust Framework]]
+# Next Topic
 [[Physical Security]]

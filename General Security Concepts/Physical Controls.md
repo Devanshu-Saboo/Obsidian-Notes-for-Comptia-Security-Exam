@@ -1,8 +1,8 @@
 Controls that limit physical access ==🟢ex. Locks, Badge readers==
 
 # Previous Topic
-[[Security Controls]]
 [[Operational Controls]]
-
-# Next Topic
+# Previous Section
+[[Security Controls]]
+# Next Section
 [[Security Control Types]]

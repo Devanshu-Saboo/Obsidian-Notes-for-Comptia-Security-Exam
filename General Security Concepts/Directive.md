@@ -4,8 +4,8 @@ Weak security control, where you direct people to take an extra security step bu
 
 
 # Previous Topic
-[[Security Control Types]]
 [[Compensating]]
-
-# Next Topic
+# Previous Section
+[[Security Control Types]]
+# Next Section
 [[CIA Triad]]

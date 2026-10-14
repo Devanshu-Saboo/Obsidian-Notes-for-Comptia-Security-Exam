@@ -10,8 +10,8 @@
 
 
 
-# Previous Topic
+# Previous Section
 [[Security Controls]]
 
-# Next topic
+# Next Section
 [[CIA Triad]]

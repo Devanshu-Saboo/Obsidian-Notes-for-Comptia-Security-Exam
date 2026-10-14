@@ -2,9 +2,9 @@ This plane is response for the controls that we set into place and managing the 
 
 
 # Previous Topic
-[[Zero Trust Framework]]
 [[Data Plane]]
-
-# Next topic
+# Previous Section
+[[Zero Trust Framework]]
+# Next Topic
 [[Adaptive Identity]]
 

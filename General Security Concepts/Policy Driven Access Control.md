@@ -9,7 +9,10 @@ Now after all this information is collected and the scope is reduced, an organiz
 [[Adaptive Identity]]
 [[Threat Scope Reduction]]
 
-# Next topic
+# Previous Section
+[[Zero Trust Framework]]
+
+# Next Topic
 [[Security Zones]]
 
 

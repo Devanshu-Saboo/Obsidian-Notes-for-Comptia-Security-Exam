@@ -4,8 +4,8 @@ Example is a security event that has occurred but you don't have the means to be
 
 
 # Previous Topic
-[[Security Control Types]]
 [[Corrective]]
-
+# Previous Section
+[[Security Control Types]]
 # Next Topic
 [[Directive]]

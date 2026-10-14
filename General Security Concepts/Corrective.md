@@ -4,8 +4,9 @@ Apply a control after an event has been detected. Sometimes for continuing a bus
 
 
 # Previous Topic
-[[Security Control Types]]
 [[Detective]]
 
+# Previous Section
+[[Security Control Types]]
 # Next Topic
 [[Compensating]]

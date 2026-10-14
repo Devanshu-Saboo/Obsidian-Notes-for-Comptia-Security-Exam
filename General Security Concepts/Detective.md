@@ -4,8 +4,9 @@ Identify and log an intrusion attempt. May or may not prevent access.
 
 
 # Previous Topic
-[[Security Control Types]]
 [[Deterrent]]
 
+# Previous Section
+[[Security Control Types]]
 # Next Topic
 [[Corrective]]

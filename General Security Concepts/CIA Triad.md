@@ -5,8 +5,8 @@
 ![[CIA.png]]
 
 
-# Previous topic
+# Previous Section
 [[Security Control Types]]
 
-# Next topic
+# Next Section
 [[AAA Framework]]

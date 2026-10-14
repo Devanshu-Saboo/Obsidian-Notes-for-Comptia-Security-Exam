@@ -4,8 +4,8 @@ Discourage an intrusion attempt. Basically make an attacker think twice before a
 
 
 # Previous Topic
-[[Security Control Types]]
 [[Preventive]]
-
+# Previous Section
+[[Security Control Types]]
 # Next Topic
 [[Detective]]

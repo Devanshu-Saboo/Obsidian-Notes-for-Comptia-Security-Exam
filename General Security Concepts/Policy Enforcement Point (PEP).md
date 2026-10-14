@@ -3,9 +3,9 @@ This point in reality are a series of devices that collect all the above informa
 After collecting all this data in the Policy Enforcement Point, it will further transfer this data to the [[Policy Decision Point (PDP)]]
 
 # Previous Topic
-[[Zero Trust Framework]]
 [[Security Zones]]
-
+# Previous Section
+[[Zero Trust Framework]]
 # Next topic
 [[Policy Decision Point (PDP)]]
 

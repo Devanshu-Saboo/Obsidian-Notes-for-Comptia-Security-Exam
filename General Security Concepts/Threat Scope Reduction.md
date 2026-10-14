@@ -4,8 +4,8 @@ The reduction of this scope could include, ==🟢 allowing a user to only connec
 
 
 # Previous Topic
-[[Zero Trust Framework]]
 [[Adaptive Identity]]
-
-# Next topic
+# Previous Section
+[[Zero Trust Framework]]
+# Next Topic
 [[Policy Driven Access Control]]
