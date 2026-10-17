@@ -16,7 +16,7 @@ There are various steps to this process such as:
 # Previous Section
 [[Change Management]]
 
-# Next topic
+# Next Topic
 [[Change Approval Process Steps (detailed)]]
 
 
