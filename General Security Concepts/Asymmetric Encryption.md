@@ -11,4 +11,4 @@ In case of a reply, John will use our public key to encrypt the message and send
 # Previous Topic
 [[Symmetric Encryption]]
 # Next Topic
-[[Key escrow]]
+[[Key Escrow]]

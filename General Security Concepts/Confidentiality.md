@@ -1,4 +1,5 @@
-Ensure that communication between certain people is only between certain people, ==🔵prevent unauthorized information disclosure.== 
+Confidentiality is simply ensuring that only authorized personnel have access to sensitive data. This would include preventing unauthorized people from accessing information that they should not have access to.
+
 
 # Previous Section
 [[CIA Triad]]

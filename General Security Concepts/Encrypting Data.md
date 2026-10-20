@@ -1,0 +1,1 @@
+Data stored in plain text is inherently considered insecure because anyone with a certain level of access or anyone eavesdropping on the network would be able to read the plain text and the data. This is why there is an inherent need to encrypt data 

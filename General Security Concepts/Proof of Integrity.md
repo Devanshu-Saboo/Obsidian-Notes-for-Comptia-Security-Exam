@@ -6,7 +6,6 @@ This is simply stating that the data sent is accurate and consistent with data t
 [[Non-Repudiation]]
 
 # Next Topic
-[[Hashing]]
 [[Proof of Origin]]
 
 
