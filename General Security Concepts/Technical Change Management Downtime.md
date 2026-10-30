@@ -1,13 +1,16 @@
-The reason I wanted to give this section its own page is due to the existence of systems that run 24x7 round the year.
+The reason I wanted to give this section its own page is the existence of systems that run 24x7 all year round.
 
-As I have mentioned previously, systems typically face a downtime when a change is being implemented to the system and the employees and users will not be able to use any services provided by the organization in that particular time period. 
+As I have mentioned previously, systems typically face downtime when a change is being implemented, and the employees and users will not be able to use any services provided by the organization in that time period.
 
-Therefore for systems that are running 24 hours 7 days a week for 365 days a year, this sounds impossible. Thus to make changes to such a system such as this one, organizations run 2 identical systems namely the primary and the secondary system. Any changes when occurring would redirect all traffic from the primary system to the secondary system to ensure timely business operations. If there are any errors that occur to the updated system, traffic can once again be redirected to the secondary system for normal business operations.
+Therefore for systems that run 24 hours a day, 7 days a week, 365 days a year, this sounds impossible. To make changes to a system such as this, organizations run 2 identical systems, namely the ==🟠primary== and the ==🟠secondary== system. When a change occurs, all traffic is redirected from the primary system to the secondary system to ensure timely business operations while the primary is updated. If any errors occur on the updated system, traffic can simply stay on the secondary system for normal business operations until the issue is fixed.
 
-It is also essential to update each and every employee in the scope of the system change to be updated regarding the changes and downtime for the systems.
-# Previous Section
-[[Technical Change Management]]
+This is a good example of protecting [[Availability]] from the CIA triad, since users never see the change happening. ==🟢ex. A bank's online banking system, which cannot go offline for a few hours just for an update==
+
+It is also essential to update every employee in the scope of the system change regarding the changes and downtime for the systems.
+
 # Previous Topic
 [[Technical Change Management Scope]]
+# Previous Section
+[[Technical Change Management]]
 # Next Topic
 [[Technical Change Management (Surplus topics)]]
